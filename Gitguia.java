@@ -12,7 +12,9 @@ System.out.println("La suma de " + a + " + " + b + " es: " + suma);
 
 System.out.println("Mi nombre es Juan Pablo Sirias Espinoza - Carnet 2025-2005U");
 
-System.out.println("Otro mensaje");
+
+System.out.println("Saludos profe");
+
 
 }
 }
